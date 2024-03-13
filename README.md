@@ -1,4 +1,4 @@
-- 👋 My name is Kshitiz Pathak 
+- 👋 ### My name is Kshitiz Pathak 
 - 📚 Learning Machine Learning and Deep Learning.
 - 🔭 🏀 Tinkiring with open-source LLM models 
 
